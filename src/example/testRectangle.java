@@ -63,4 +63,6 @@ class Rectangle{
 	double getPerimeter(){
 		return (width + height) * 2;
 	}
+
+// comment 3 -- new class needed
 }
