@@ -70,3 +70,8 @@ class NewRectangle{
 
 }
 
+// comment 4 -- new nonsense class needed
+class DoubleRectangle{
+	
+}
+
