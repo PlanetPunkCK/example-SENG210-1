@@ -65,8 +65,8 @@ class Rectangle{
 	}
 }
 
-// comment 3 -- new class needed
-class NewRectangle{
+// new feature to be implemented
+class trueRectangle{
 
 }
 
